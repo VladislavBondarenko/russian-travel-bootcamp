@@ -11,7 +11,7 @@
 @media screen and (max-width: 767px) {
   .lead__title {
     max-width: 90%;
-    font-size: 12vh;
+    font-size: 6vh;
   }
 }
 
@@ -24,6 +24,6 @@
 }
 @media screen and (max-width: 319px) {
   .lead__title {
-    font-size: 12vh;
+    font-size: 6vh;
   }
 }
