@@ -7,20 +7,20 @@
 
 @media screen and (max-width: 1024px) {
   .header {
-    max-width: 928px;
+    max-width: 90.625%;
     margin-bottom: 48px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .header {
-    max-width: 720px;
+    max-width: 93.75%;
     margin-bottom: 48px;
   }
 }
 @media screen and (max-width: 320px) {
   .header {
     max-width: 288px;
-    margin-bottom: 48px;
+    margin: 16px auto 48px;
   }
 }
